@@ -8,6 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontSize: {
+        heading: '4rem'
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
